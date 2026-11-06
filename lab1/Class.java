@@ -1,3 +1,5 @@
+package lab1;
+
 public class Class {
     public static boolean isSorted(Node subHead) {
         if (subHead == null || subHead.next == null) {

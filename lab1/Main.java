@@ -1,6 +1,7 @@
 // Списки. Стеки. Очереди.
 // Вариант 27
 // Задача 27. Удалить из списка неупорядоченные подсписки
+package lab1;
 
 public class Main {
     public static void main (String[] arg) {

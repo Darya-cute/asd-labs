@@ -1,6 +1,7 @@
 // Разреженные матрицы
 // Вариант 27
 // Задача 27. Дана разреженная квадратная матрица(CRS). Повернуть матрицу на 180 градусов.
+package lab2;
 
 public class Main {
     public static void main (String[] args){
